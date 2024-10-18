@@ -7,7 +7,7 @@
 
 <div align='center'>
   
-<img src="./github/assets/bar.png" width="100%" height="8px"/>
+<img src="bar.png" width="100%" height="8px"/>
 
 <div align="center">  
   
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="./github/assets/bar.png" width="100%" height="8px"/>
+<img src="bar.png" width="100%" height="8px"/>
 
 ## Minhas redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-pinheiro-do-nascimento/)
