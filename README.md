@@ -1,8 +1,8 @@
 ## Olá, sou o Kauan Pinheiro 👋
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Sou estando na Estácio e curso Ciência da computação
+- 🔭 Hoje sou desenvolvedor Full Stack
+- 🌱 Sou estandante na Estácio e curso Ciência da computação
 - 😄 Pronouns: Ele/Dele
 
 <div align='center'>
