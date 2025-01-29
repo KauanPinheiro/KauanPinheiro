@@ -28,6 +28,6 @@
 
 ## Minhas habilidades
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma,vscode,git,github&theme=dark" width="100%"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,react,nodejs,mysql,figma,vscode,git,github&theme=dark" width="100%"/>
 
 <div>
